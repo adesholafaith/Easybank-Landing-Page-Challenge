@@ -26,6 +26,6 @@ For future improvements, I’d like to:
 - Create a dark mode toggle for better accessibility.
 
 
-Acknowledgments
+# Acknowledgments
 
-Thanks to open-source learning resources, design inspirations from existing banking websites, and communities that share tips and tricks on front-end development.
+Thanks to Frontend Mentor for the mind-opening challenge, open-source learning resources, design inspirations from existing banking websites, and communities that share tips and tricks on front-end development.
